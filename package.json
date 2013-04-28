@@ -4,8 +4,7 @@
   "version": "0.0.1",
   "private": true,
   "author": {
-    "name": "John Doe",
-    "company": "ACME, Inc."
+    "name": "Stig Murberg <smu@smuco.de>"
   },
   "dependencies": {
     "lineman": "~0.4.10"

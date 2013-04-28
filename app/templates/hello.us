@@ -1,3 +1,5 @@
-<div class="hello">
-  <%= text %>
-</div>
+<textarea id="cs" readonly="readonly">
+  ->
+</textarea>
+<textarea id="js" class="wrong">
+</textarea>
