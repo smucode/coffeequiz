@@ -1,5 +1,2 @@
-<textarea id="cs" readonly="readonly">
-  ->
-</textarea>
-<textarea id="js" class="wrong">
-</textarea>
+<textarea id="cs" readonly="readonly">-></textarea>
+<textarea id="js" class="wrong"></textarea>
