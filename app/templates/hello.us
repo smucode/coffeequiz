@@ -1,2 +1,12 @@
-<textarea id="cs" readonly="readonly">-></textarea>
-<textarea id="js" class="wrong"></textarea>
+<div style="text-align: center">
+  <h1>CoffeeQuiz</h1>
+  <div style="display: inline-block">
+    <h2>What is this CoffeeScript</h2>
+    <textarea id="cs" readonly="readonly">-></textarea>
+  </div>
+  <div style="display: inline-block">
+    <h2>In JavaScript?</h2>
+    <textarea id="js" class="wrong"></textarea>
+  </div>
+  <h3>Man, I'm stuck. Please help...</h3>
+</div>
